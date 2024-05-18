@@ -1,2 +1,2 @@
-# Assignment-2
+# Suresh Chitkara
 This is for Assignment 2
